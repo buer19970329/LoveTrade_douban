@@ -22,7 +22,7 @@ This repository ~~***will***~~ contain:
 
 ## Method
 1. 利用Python获得观察数据
-* 基于python[requests包](https://docs.python-requests.org/en/latest/)和[BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)对[豆瓣相亲大会](https://www.douban.com/gallery/topic/51644/)进行检索：以“身高”、“年龄”、“体重”、“年龄”、“学历”、“经济”等关键词为线索进行筛选，保留提供自身条件和对方条件的数据。
+* 基于[requests包](https://docs.python-requests.org/en/latest/)和[BeautifulSoup包](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)对[豆瓣相亲大会](https://www.douban.com/gallery/topic/51644/)进行检索：以“身高”、“年龄”、“体重”、“年龄”、“学历”、“经济”等关键词为线索进行筛选，保留提供自身条件和对方条件的数据。
 
 2. 贝叶斯框架
 * 
