@@ -32,7 +32,7 @@ This repository ~~***will***~~ contain:
 
 ## Reference
 
-1. [Harvard Appiled Math 205](https://courses.seas.harvard.edu/courses/am205/index.html)
+1. [Harvard Applied Math 205](https://courses.seas.harvard.edu/courses/am205/index.html)
 
 2. Grahl, A., Onat, S., & Büchel, C. (2018). The periaqueductal gray and Bayesian integration in placebo analgesia. Elife, 7, e32930.
 [DOI: 10.7554/eLife.32930](https://elifesciences.org/articles/32930)
