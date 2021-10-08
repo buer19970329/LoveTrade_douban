@@ -7,6 +7,7 @@
 This repository ~~***will***~~ contain:
 * Code for getting observed data from [douban](https://www.douban.com/), based on python
 * **Code for Bayesian model**
+* Data visualization
 * Observed data & Result
 
 
@@ -25,9 +26,7 @@ This repository ~~***will***~~ contain:
 * 基于[requests包](https://docs.python-requests.org/en/latest/)和[BeautifulSoup包](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)对[豆瓣相亲大会](https://www.douban.com/gallery/topic/51644/)进行检索：以“身高”、“年龄”、“体重”、“年龄”、“学历”、“经济”等关键词为线索进行筛选，保留提供自身条件和对方条件的数据。
 
 2. 贝叶斯框架
-* 
-
-
+* ![image](https://user-images.githubusercontent.com/56564928/136504085-c6b81401-bb5d-48ae-a20a-da81259f8453.png)
 **Note.** 此研究仅使用网络上被本人公开的信息，并忽略任何可能指向个人的信息。此工作不发表、不作任何商业用途。
 
 ## Reference
@@ -35,4 +34,6 @@ This repository ~~***will***~~ contain:
 1. [Harvard Applied Math 205](https://courses.seas.harvard.edu/courses/am205/index.html)
 
 2. Grahl, A., Onat, S., & Büchel, C. (2018). The periaqueductal gray and Bayesian integration in placebo analgesia. Elife, 7, e32930.
-[DOI: 10.7554/eLife.32930](https://elifesciences.org/articles/32930)
+[doi: 10.7554/eLife.32930](https://elifesciences.org/articles/32930)
+
+3. 韩丽娜. (2018). 贝叶斯分类模型在学生成绩预测中的应用研究. 计算机与数字工程, 46(10), 2039-2041.[doi: 10.3969/j.issn.1672-9722.2018.10.020](https://d.wanfangdata.com.cn/periodical/jsjyszgc201810020)
