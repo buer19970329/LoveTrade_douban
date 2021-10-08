@@ -27,6 +27,8 @@ This repository ~~***will***~~ contain:
 
 2. 贝叶斯框架
 * ![image](https://user-images.githubusercontent.com/56564928/136504085-c6b81401-bb5d-48ae-a20a-da81259f8453.png)
+
+
 **Note.** 此研究仅使用网络上被本人公开的信息，并忽略任何可能指向个人的信息。此工作不发表、不作任何商业用途。
 
 ## Reference
